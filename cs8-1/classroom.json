@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "CS8-1",
+  "short_name": "cs8-1",
+  "term": "T3 2026-27",
+  "org": "Hamlin-CS",
+  "team": {
+    "id": 19667217,
+    "slug": "classroom50-cs8-1"
+  },
+  "teams": {
+    "teacher": {
+      "id": 19667219,
+      "slug": "classroom50-cs8-1-teacher"
+    },
+    "hta": {
+      "id": 19667220,
+      "slug": "classroom50-cs8-1-hta"
+    },
+    "ta": {
+      "id": 19667221,
+      "slug": "classroom50-cs8-1-ta"
+    }
+  }
+}
